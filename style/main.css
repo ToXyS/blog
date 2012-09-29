@@ -1,0 +1,54 @@
+/* 
+    Document   : main.css
+    Created on : 13.09.2012, 15:09:59
+    Author     : ToXyS
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {
+    background-color: #ffffff; font-family: tahoma, verdana, arial, times;
+    font-size: 14; max-width: 800px; margin: 0px auto;
+}
+h1 {
+    font-size: 16; font-weight: bold; texy-align: left; 
+    
+}
+.register {
+    background-color: #aaaaaa;
+    border: 1px dashed rgb(204, 204, 204);
+    top: 50%; 
+    left: 50%;
+    width: 450px; 
+    height: 300px;
+    position: absolute; 
+    margin-top: -225px; 
+    margin-left: -225px; 
+}
+.login    {
+    background-color: #aaaaaa;
+    border: 1px dashed rgb(204, 204, 204);
+    top: 50%; 
+    left: 50%;
+    width: 450px; 
+    height: 300px;
+    position: absolute; 
+    margin-top: -225px; 
+    margin-left: -225px; 
+}
+.content {
+    background-color: lightgray;
+    border-left: 1px solid black; 
+    border-right: 1px solid black;
+}
+.header {
+    background-color: cyan;
+    
+}
+.copyright {
+    
+    
+}
